@@ -313,3 +313,6 @@ Android Developer
 # License
 
 This project was developed as part of an Android take-home technical assignment.
+
+I confirm that I did not use generative AI tools to design, write, refactor, or
+generate this assignment submission.
